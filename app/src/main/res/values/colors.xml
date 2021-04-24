@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="black_pacity">#3B000000</color>
+    <color name="welcome">#383743</color>
+    <color name="background">#ebe9d7</color>
+    <color name="signin_button">#57bbbc</color>
+    <color name="credentials_invali">#ff0f44</color>
+    <color name="button_signin">#57bbbc</color>
+    <color name="button_signin_invalid">#748383</color>
+    <color name="background_company_container">#ee4c77</color>
+    <color name="company_result_search">#1a0e49</color>
+    <color name="detail_result_search">#8d8c8c</color>
+    <color name="hint_search_color">#991237</color>
+    <color name="background_progress_bar">#99ffffff</color>
+    <color name="circle_progress_bar">#57bbbc</color>
+    <color name="result_search_not_found">#acabab</color>
+
+</resources>

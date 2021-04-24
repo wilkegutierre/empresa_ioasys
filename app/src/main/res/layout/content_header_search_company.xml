@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="77dp"
+    android:orientation="vertical"
+    android:background="@color/background_company_container">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="22dp"
+        android:background="@color/black_pacity" />
+
+    <include
+        android:id="@+id/layout_nav_search"
+        layout="@layout/header_logo_nav_search_company" />
+
+    <include
+        android:id="@+id/layout_field_search"
+        layout="@layout/header_field_search_company" />
+</LinearLayout>

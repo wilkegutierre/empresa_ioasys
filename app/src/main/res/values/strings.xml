@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Empresas</string>
+    <string name="welcome_to">BEM-VINDO AO <br /> EMPRESAS</string>
+    <string name="welcome_message">Lorem ipsum dolor sit amet, contetur<br />adipiscing elit. Nunc accumsan.</string>
+    <string name="invalid_credentials">Credenciais informadas são inválidas, tente novamente.</string>
+    <string name="button_signin">ENTRAR</string>
+    <string name="hint_search">Pesquisar</string>
+    <string name="hint_email_login">E-mail</string>
+    <string name="hint_password_login">Password</string>
+    <string name="begin_search_companies">Clique na busca para iniciar.</string>
+    <string name="result_search_not_found">Nenhuma empresa foi encontrada <br/> para a busca realizada.</string>
+</resources>

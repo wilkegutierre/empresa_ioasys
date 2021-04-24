@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="45dp"
+    android:layout_marginTop="82dp"
+    android:layout_marginRight="45dp">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="12dp"
+        android:src="@drawable/ic_email" />
+
+    <EditText
+        android:id="@+id/edtEmailLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/welcome"
+        android:hint="@string/hint_email_login"
+        android:imeOptions="actionNext"
+        android:inputType="textEmailAddress"
+        android:paddingLeft="25dp" />
+
+
+</FrameLayout>

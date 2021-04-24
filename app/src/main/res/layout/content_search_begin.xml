@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/flProgressBar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="80dp"
+    android:background="@color/background">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="43.5dp"
+        android:text="@string/begin_search_companies"
+        android:layout_marginRight="43.5dp"
+        android:fontFamily="@font/roboto_regular"
+        android:textAlignment="center"
+        android:textColor="@color/welcome"
+        android:textSize="16sp" />
+</FrameLayout>
